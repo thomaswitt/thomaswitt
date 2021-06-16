@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thomaswitt: Tech Entrepreneur, Advisor and Angel Investor.
+- 👋 Hi, I’m @thomaswitt: Tech Entrepreneur and Angel Investor (check https://expedite.ventures/).
 - 👀 I’m interested in Ruby/Rails, Golang, JavaScript/TypeScript & AWS Cloud Infrastructure (AWS).
 - 💞️ I’m looking for a) Golang developers for a new project b) tech founders looking for Angel Funding from [Expedite Ventures](https://www.expedite.ventures/).
 - 📫 Reach me on [Twitter (@thomas_witt)](https://twitter.com/thomas_witt) or [LinkedIn](https://www.linkedin.com/in/thomaswitt/)
